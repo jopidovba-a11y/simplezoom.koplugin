@@ -1,0 +1,1 @@
+SimpleZoom is a **lightweight**, **battery-friendly** koreader plugin for manga archives that zooms a fixed window centered on a long-press, rendering only the zoomed region with partial screen updates and dismissing on a tap or another long press.
